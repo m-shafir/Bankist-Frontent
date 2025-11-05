@@ -1,1 +1,1 @@
-export const serviceURL = "http://localhost:4000";
+export const serviceURL = "https://bankist-backend.onrender.com";
